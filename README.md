@@ -33,10 +33,10 @@
 ## 🖥️ How to Run
 
 1. **Clone this repository**:
-   ```bash
-   git clone https://github.com/Saswat-King/library-book-manager.git
-   cd library-book-manager
-   ```
+```bash
+git clone https://github.com/Saswat-King/library-book-manager.git
+cd library-book-manager
+```
 
 2. Navigate to the src/ folder:
 
